@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "userName": "Amanda",
+      "time": "3h ago",
+      "propName": "de Villa",
+      "description": "The place where you live luxurious life",
+      "price": 999.99,
+      "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
